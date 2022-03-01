@@ -1,0 +1,6 @@
+C:\@MyData\Leo\Code\Fiscool\FisCool\FisCool\bin\Debug\FisCool.exe.config
+C:\@MyData\Leo\Code\Fiscool\FisCool\FisCool\bin\Debug\FisCool.exe
+C:\@MyData\Leo\Code\Fiscool\FisCool\FisCool\bin\Debug\FisCool.pdb
+C:\@MyData\Leo\Code\Fiscool\FisCool\FisCool\obj\Debug\FisCool.csprojResolveAssemblyReference.cache
+C:\@MyData\Leo\Code\Fiscool\FisCool\FisCool\obj\Debug\FisCool.exe
+C:\@MyData\Leo\Code\Fiscool\FisCool\FisCool\obj\Debug\FisCool.pdb

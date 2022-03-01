@@ -1,0 +1,6 @@
+C:\@MyData\Leo\Code\Fiscool\KeepSystemAlive\KeepSystemAlive\bin\Debug\KeepSystemAlive.exe.config
+C:\@MyData\Leo\Code\Fiscool\KeepSystemAlive\KeepSystemAlive\bin\Debug\KeepSystemAlive.exe
+C:\@MyData\Leo\Code\Fiscool\KeepSystemAlive\KeepSystemAlive\bin\Debug\KeepSystemAlive.pdb
+C:\@MyData\Leo\Code\Fiscool\KeepSystemAlive\KeepSystemAlive\obj\Debug\KeepSystemAlive.csprojResolveAssemblyReference.cache
+C:\@MyData\Leo\Code\Fiscool\KeepSystemAlive\KeepSystemAlive\obj\Debug\KeepSystemAlive.exe
+C:\@MyData\Leo\Code\Fiscool\KeepSystemAlive\KeepSystemAlive\obj\Debug\KeepSystemAlive.pdb
